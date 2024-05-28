@@ -29,8 +29,8 @@ The **yolo.py** has the script to detect the objects in the images.
 Make sure you have numpy and opencv installed. If not install them using pip
 
 ```
-pip install numpy
-pip install opencv-python
+pip install numpy opencv-python gtts playsound
+
 ```
 
 I am using the ***numpy*** version ***1.17.4*** and ***opencv*** version ***3.4.2***
@@ -38,7 +38,7 @@ I am using the ***numpy*** version ***1.17.4*** and ***opencv*** version ***3.4.
 You can now run the file by giving this command on your command promt
 
 ```
-python yolo.py --image images/ipl.jpeg
+python yolo.py --image images/person-2.webp
 ```
 
 You can use any image you want after the `--image` argument. Make sure you give the right path.
