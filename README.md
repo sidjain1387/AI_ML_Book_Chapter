@@ -39,6 +39,7 @@ I am using the ***numpy*** version ***1.17.4*** and ***opencv*** version ***3.4.
 You can now run the file by giving this command on your command promt
 
 ```
+cd "Object-Detection-on-images-using-YOLO"
 python yolo.py --image images/person-2.webp
 ```
 
