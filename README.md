@@ -22,7 +22,7 @@ The three files that needs to be downloaded are -
 
 Download these files and save it inside a folder. Name the folder anything you wish, but I have named it as **yolo-coco** just because of the fact that we are going to use the coco dataset objects.
 
-Test images are there in **Images Folder**
+Test images are there in **Images Folder** .
 You can test with your images by putting it into the **Images Folder**
 
 The **yolo.py** has the script to detect the objects in the images.
